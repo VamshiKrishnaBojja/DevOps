@@ -1,6 +1,0 @@
-This is the new git file uploading from gtihub to git bash
-
-Adding first line to the file
-Adding second line to the file
-Adding third line to the file
-Adding fourth line to the file
